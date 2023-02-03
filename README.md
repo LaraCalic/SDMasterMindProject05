@@ -11,7 +11,7 @@ This project aims to build a **TODO list web app of tasks with _HTML, CSS, and J
 
 This repository consists of 3 files: index.html, main.css, and main.js, each with its purpose. The most challenging and fun part was styling, which could be found and implemented inside the CSS file. Submitting tasks can be allowed using the forms (inside the index.html file). Each input field has its id label. The main part of the index.html file is the section class with the list of tasks. All our tasks are going inside of this with the content. CSS firestones have been used to style the website. The idea was to match light font text on the top of the dark background. 
 
-Inside the JavaScript, we created the objects with the .querySelector(). After submitting the form, we could use the preventDefault() option to prevent refreshing the page. We are using the if statement/function, testing if the user fill-out out the task. A .createElement allows us to create a diff element. To each diff element, we can add a task. For each task there are 2 options: edit or delete it. 
+Inside the JavaScript, we created the objects with the .querySelector(). After submitting the form, we could use the preventDefault() option to prevent refreshing the page. We are using the if statement/function, testing if the user fill-out out the task. A .createElement allows us to create a diff element. To each diff element, we can add a task. For each task, there are 2 options: edit or delete it. 
 
 
 <p float="center">
