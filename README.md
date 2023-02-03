@@ -17,7 +17,6 @@ Inside the JavaScript, we created the objects with the .querySelector(). After s
 <p float="left">
   <img src="https://user-images.githubusercontent.com/81815115/216547670-d3db6506-4fa8-4284-b10e-6ceb8bbee9c4.png" width="100" />
   <img src="https://user-images.githubusercontent.com/81815115/216547722-7590bc3b-2ed7-4f4e-bb15-7f97f0c90f75.png" width="100" /> 
-  <img src="/img3.png" width="100" />
 </p>
 
 
